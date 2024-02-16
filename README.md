@@ -3,7 +3,7 @@ Suite de commande écrit en Pascal (Turbo Pascal ou Free Pascal) destiné aux mi
 
 <h3>Liste des unités</h3>
 
-Liste des unités que contient la projet «8080-TOOLS» :
+Voici la liste des différents fichiers proposés dans «8080-TOOLS» :
 
 <table>
   <tr>
@@ -14,4 +14,8 @@ Liste des unités que contient la projet «8080-TOOLS» :
     <td><b>8080Z80.PAS</b></td>
     <td>Cette commande permet de convertir un code source assembleur de microprocesseur 8080 en code source Z80.</td>
   </tr>
+		<tr>
+			<td><b>ASM8080.PAS</b></td>
+			<td>Cette commande permet de lancer le compilateur de langage de programmation assembleur pour les microprocesseur 8080.</td>
+		</tr>		  
 </table>
