@@ -1,7 +1,7 @@
 # 8080-TOOLS
-Suite de commande écrit en Pascal (Turbo Pascal ou Free Pascal) destiné aux microprocesseur 8080.
+Suite de commande écrit en Pascal (Turbo Pascal ou Free Pascal) destiné aux microprocesseurs 8080.
 
-<h3>Liste des unités</h3>
+<h3>Liste des fichiers</h3>
 
 Voici la liste des différents fichiers proposés dans «8080-TOOLS» :
 
