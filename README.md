@@ -10,6 +10,10 @@ Voici la liste des différents fichiers proposés dans «8080-TOOLS» :
 		   <th>Nom</th>
 		    <th>Description</th>
 		  </tr>
+	<tr>
+			<td><b>8080DICT.PAS</b></td>
+			<td>Cette commande permet d'afficher la liste des instuctions ou une instruction de l'assembleur 8080.</td>
+		</tr>  
 		  <tr>
 		    <td><b>8080Z80.PAS</b></td>
 		    <td>Cette commande permet de convertir un code source assembleur de microprocesseur 8080 en code source Z80.</td>
